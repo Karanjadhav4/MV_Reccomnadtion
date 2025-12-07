@@ -1,10 +1,5 @@
-<<<<<<< HEAD
 streamlit
 pandas
 numpy
-
-=======
 requests
 scikit-learn
-
->>>>>>> 3e787fc234ba5c4b634e6ebdfc33a208ac007cd2
