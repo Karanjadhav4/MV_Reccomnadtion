@@ -84,7 +84,7 @@ Recommended Movies:
 4️⃣ Amazing spider-man2
 5️⃣ Arachnophobia
 
-![reccomndation](https://github.com/Karanjadhav4/movie_reccomandation_system/blob/main/Snapshot%20of%20the%20reccomndation%20system.pn)
+![reccomndation](https://github.com/Karanjadhav4/MV_Reccomnadtion/blob/main/Snapshot%20of%20the%20reccomndation%20system.png)
 
 🔥 Looks clean and accurate!
 
@@ -106,6 +106,7 @@ scikit-learn
 
 ✨ PRs and feedback are always welcome!
 If you want to improve the model or UI, go ahead!
+
 
 
 
